@@ -1,1 +1,9 @@
 /*prueba*/
+
+element.style {
+    transform: translate3d(-1212px, 0px, 0px);
+    transition: all 0.6s ease 0s;
+    width: 4077px;
+    padding-left: 372px;
+    padding-right: 372px;
+}
